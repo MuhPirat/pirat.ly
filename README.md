@@ -1,1 +1,1 @@
-# pirat.ly-PHP-Wrapper
+# PHP Wrapper for pirat.ly
